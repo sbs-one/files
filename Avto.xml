@@ -10,7 +10,7 @@
             <model>M5</model>  -->
            <marka>Alfa Romeo</marka>
             <model>Brera</model>
-            <!--<generation></generation>  -->         
+            <!--<generation>1</generation>  -->         
             <year>2011</year>
             <autoOwnersByPts>1</autoOwnersByPts>
             <autoColor>Черный</autoColor>
