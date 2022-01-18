@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2020-09-22T13:01:35+03:00</generation-date>
+  <offer internal-id="315900">
+    <vas>
+      <boost>true</boost>
+      <premium>true</premium>
+      <turbo>true</turbo>
+    </vas>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-06-25T14:39:44+03:00</creation-date>
+    <last-update-date>2020-09-21T23:30:28+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/315900</url>
+    <category>квартира</category>
+    <area>
+      <value>123.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/92d0d7ac373a69433044e0171fc777d8003c37c3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/39092f3cff9616e87132240c745ab6467f63a927.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/4c4f86fc6dcfd974a792b97253461f9899641b35.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/c6b6ba23bee981c3612aaf1cdef49096cd032ddb.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/ab237f346b1019c553610118add4a2e9633af85d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/e3433d9f7436a221711d80ad3cb4c7f05fd77838.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/f8e9081eb0f273a997b4eb0c31949dbc0b2e2ee7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/dc19173996a86783548a1fd00dcdd3c673c3610b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/1bee89277dacf22f15f875324da727bbe3d01981.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/541bf2c6b17f2d830bc74348b3a20297f42dba06.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/fd22868d2f182c1464ae4116ca818641b8b4574b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/a5fafffb278f78b953c1b68fef459da46fe2477f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/83a852804da70cb4a42801e8f772f994b7317624.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/cbc1b84ea9673f534087661538c1fa37883484c0.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/71fc3c3b5891ea5775ee4d1250f8ade45a0b8e5b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/35fa3cc915afa29c12208b34a5ff5884d68c6bda.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/bd59413c9ccc6696f6065d3ae17a3b546e5e0f80.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/c0ace3ec0593958b1a8448d600dadc93f6249c8a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/0a399080e1b709f3f81bf021e5d34828e46ac584.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/fef880006f78de15b34b3b08ef979e5de6a19cfb.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/a3f958da338e0e565a8d2e95b7009d30a1c708d4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/7667e378a5ec1b2d8b28938b467666e89f21860d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/d127e0812edd9867f5ae2d05c27f264b2299bb61.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/dc9272299d86a7099404367387b4a7a208a3e07e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/58e644e73746ac3bd47949ad38d6e1f66b0f4161.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/c54bdc0b635ec3351596f67262fa117f5da7d1ae.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315900/647e30b88e0de2a4dd484334213b4d136fde717b.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Москва</locality-name>
+      <address>ул Большая Академическая , 15к1</address>
+      <latitude>55.822979</latitude>
+      <longitude>37.526726</longitude>
+      <metro>
+        <name>Войковская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Сергей</name>
+      <phone>9256330482</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>25950000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 315900. Удаленный показ - посмотри объект не выходя из дома.
+Продается просторная 3-к квартира по адресу: г Москва, ул Академическая Б. д. 15, к. 1. Общая площадь квартиры: 123,6 кв. м, жилая: 69,5 кв. м. В квартире очень большая кухня 30 кв. м., потолки свыше 3 м. В квартире остается встроенная кухня и бытовая техника, кондиционеры. Окна на две стороны. Красивые подъезды, хорошие и респектабельные соседи, есть подземный паркинг с охраной. Хорошая транспортная доступность. Рядом расположены: знаменитая школа Казарновского, британская международная школа, гимназия 1576. В пешей доступности Тимирязевский парк. Один взрослый собственник. Более 3-х лет собственности, полная сумма в договоре. Возможна Ипотека. Свободная продажа! Есть возможность провести виртуальный тур который позволит рассмотреть панораму будущего интерьера и планировки квартиры во всех деталях. Запись по телефону в контактах объявления.</description>
+    <internet>1</internet>
+    <rooms>3</rooms>
+    <balcony>балкон</balcony>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <built-year>2000</built-year>
+    <mortgage>1</mortgage>
+    <haggle>1</haggle>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>2 совмещенных</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>3.05</ceiling-height>
+    <living-space>
+      <value>69.5</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>30</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+  <offer internal-id="319735">
+    <vas>
+      <boost>true</boost>
+      <premium>true</premium>
+      <turbo>true</turbo>
+    </vas>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-11-16T17:56:17+03:00</creation-date>
+    <last-update-date>2020-09-21T23:28:18+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/319735</url>
+    <category>дом с участком</category>
+    <area>
+      <value>140</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/400d5ffdd3db3ccd415dd57ee3ad6b66c8cee0dc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/8ffd303780c35d45fa000177480cb8515959249a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/3892cd6e95e869c384aabf1f9c33a6052accc7de.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/185115424c071d9f492af2304aa3f145b2dd74de.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/ef4281c583fb2315f497d938f1ab39311f3296b8.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/ed00a2130e44a5dbac9aadad53a542913360cd88.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/4d9890b390bd21a0e55c80d4c7946b0e5b1e978f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/1b5803bd0a73f8a10d76797fd7a726933edf7c0a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/ac42b0237dc92757164b4e5e3aacb0b363d64a64.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/c5e32f3338f1ef8ca586a96b292ba94f20cf3e22.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/b5b11300afbb577f0be0627a94b8f1b715a09ded.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/a14eb01886ab6752bb81bb6392acfbc1160afa58.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/5400b574b98310d2a6bf65f3009acca912aa683a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/172a111567235d2b3bc84dd700357333ddf0eacd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/22b9d82c0b97563621f3cea8ea3db3ad964db21f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/f462b466cfeca533be5e387dd13d8d6a4d8c3a7b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/a46fede4593605dc932c414a2e6da2b2f80333d7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/387a547de312eed5c40e49a43513c66d9c79f47c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/3c6021d8d062b7176349ad3f7579fb67b7fe7927.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/4959e384ddac76984d778feaa8641aa296dedff6.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/a5fcbe538cd38488c32ad92fea779b70516e7a0b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/e92420a0a161bd342d3311c994c18e803f41f6f0.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/bcea6a7be1860ea9dfd4c434409aef31cfbfca10.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/f26c7b4dddf72f63650cbe28f2b7b261e0853c14.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/dae95d7971baa4c94febf48f9bb71845786f3f55.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/b4421fa6dca6e6d9d9c7c728e8de81eafaf37881.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/e9bfd81eb44cd24cfcbad8caa74dc2ce22f6bebb.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/319735/9837f0855d18ccdd9f6ee4e7ef419e150e062ce7.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>область Московская</region>
+      <district>Солнечногорск городской округ</district>
+      <locality-name>деревня Хоругвино</locality-name>
+      <latitude>56.121857</latitude>
+      <longitude>37.216097</longitude>
+      <metro>
+        <name>Ховрино</name>
+        <time-on-transport>60</time-on-transport>
+      </metro>
+      <direction>Ленинградское шоссе</direction>
+    </location>
+    <sales-agent>
+      <name>Анастасия</name>
+      <phone>9269904991</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>4700000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 319735. Продаю отличный дом из оцилиндрованного бревна. Московская область, Солнечногорский район, д. Хоругвино, СНТ "Автодор". 38 км. от МКАД. Дом 140кв. м., Жилая 85 кв. м. 
+ Дом бревенчатый (Рубленый), двух этажный. Экологически чистый теплый, с электричеством(15Квт), канализацией (автоматический септик) и водой (г/х). Теплая дача или дом для постоянного проживания, продается с современной мебелью и техникой. В доме качественная отделка, отличные двухкамерные, пластиковые стеклопакеты. Дровяная печка(булерьян) и электрические конверторы установлены по всему дому. На втором этаже просторная гардеробная, пристроена кладовая для садовой техники и вещей. Так же не большой подпол. 
+ Участок 6.3 сот., (по факту 12 сот.) прямоугольной, правильной формы. Земля выровнена, удобна разделена на зону отдыха и барбекю. Есть парник, отдельно стоящая баня, сарай и теплый туалет. Открытый выход в лес, грибы и клюква растут прямо у участка. 
+СНТ Охраняемое, многие живут постоянно. Свободная продажа, участок и дом зарегистрированы. Все документы есть. Помощь в получении Ипотеки!</description>
+    <heating-supply>1</heating-supply>
+    <lot-area>
+      <value>6.3</value>
+      <unit>сот</unit>
+    </lot-area>
+    <floors-total>2</floors-total>
+    <built-year>2010</built-year>
+    <haggle>1</haggle>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>0</lift>
+    <ceiling-height>2.7</ceiling-height>
+    <video-review/>
+  </offer>
+  <offer internal-id="320437">
+    <vas>
+      <boost>true</boost>
+      <premium>true</premium>
+      <turbo>true</turbo>
+    </vas>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-12-04T11:21:54+03:00</creation-date>
+    <last-update-date>2020-09-21T23:41:48+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/320437</url>
+    <category>квартира</category>
+    <area>
+      <value>72</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/540d79203faff82215659b86e337267a5e5142d7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/31a3ca0fd3670874e74d8405853c3b1579d9db64.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/45e64da993503d725d304818e14ff818563d8698.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/32f23ca346a823d12d25310ea2eecf756896fe2b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/13ade0ef4d5bce6ae19037d7c4e638cb86b3f908.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/afd78b528e5ec9f0f3239a58585605069bde86fc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/e0826338fc1028188f8a319ff9cc416ad3e9ed72.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/1be57d636d620606519e43971ccce1237afcaf29.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/a4e1299b5ce026fcf7e95701468d4a9d53c272b4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/c54918791e31db8e15a263f6edfb6a34691840b2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/79a36a3bb1ee670ca4d74d40beae38e2087a275a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/709a2e420e59f333a9e2a81c360eb9cb6adca44d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/cd16666ccebe9036d811a091bd5d122d27429ffc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/0c47f0faa15566491a5a4b43ec59af4e8b2d4ac4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/78470adc344be00dbc221f2de269a9b72e856103.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/2b44bcdb4dde56ddb0668f5bfb48e2f5a1b92791.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/b5fa54c32c5b027d621fbe01a07854a115f286b3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/5025154484bd7630e81babf89972bb3f3f6484ea.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/1cc1a55bbf67d1bde3b77569c2bdc6b3756e0250.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/098da427ca25d40f0f49ad5db5818bc5ec3f6803.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/1dde2c792262a1654fac95457ef5608c62cff5dd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/9e4d6571409c35139678d0a1e7f33adc1fe3a208.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/030adaa74fd562d858d34cdffe7e99ed457ac330.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/da55ba8e7291c05aafe961ff40a7fe407127b232.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/b6e5c0721dd50ac110f94d69a5572aa06134da39.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/5e4b535e4da24718767027f4af3ca02a58f00706.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/c36692e4fd334bb09aedde0c8aac3aaf755d2413.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/0848cdd1ed916ac5de23c65c53f9d3cd7c35452f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/47af5bd265ffc2e53c991710d82ab3f23bcb7189.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/7a216f97974e835c208e0df42ffdd727f97c2292.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/096f9af6beb827a6c2caba5dad161e9e28febd41.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/dbb247f938404fb0ec9e6e3018f45999e32ebd92.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/3fc6b3520bcba2b6666b8c255e25e141e178da33.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/51cbde3e514cabdc0dbb9da3509456074b2fb03b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/cb66299bb61dd75243a6402e2213a2aef6ecee93.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/37b9f301076b9d72cabc724352f18391f3fda07c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/337d7641e609d56b57c1432fb41fdc874cbbb90e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320437/81acb46b4be4ad6f4bd3dd49e92797d48a237700.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>область Московская</region>
+      <district>Красногорск городской округ</district>
+      <locality-name>деревня Воронки</locality-name>
+      <latitude>55.796309</latitude>
+      <longitude>37.27376</longitude>
+      <metro>
+        <name>Мякинино</name>
+        <time-on-transport>20</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Людмила</name>
+      <phone>9995993347</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>7000000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 320437. Двухкомнатная квартира в деревне Воронки Красногорского района, в Подмосковном цельном архитектурно-парковом ансамбле музея усадьбы "Архангельское". Единственным сохранившим трехсотлетние элементы планировки и застройки. Это место, где история соприкасается с нашим днем, с его потребностями и приоритетами. Квартира для истинных ценителей загородной жизни, тишины и природы. Для тех кто любит пешие прогулки, приятных соседей, выставки, спектакли и концерты. Это прекрасное место для духовного роста и наслаждения души. Транспортная доступность и инфраструктура этого района развита. Всего 5 км. от МКАД, ближе Новорижское шоссе. Преимущество - легкость добраться до МЦД - 2 и до станций метро "Мякинино", "Волоколамское". Рядом располагаются ТЦ "Глобус", "Леруа Мерлен", Рига Молл, музей техники "Задорожного".
+Просторная квартира в монолитном доме, на охраняемой территории, с высокими потолками, панорамным окном в гостиной, с выходим на крышу - мансарду, где по желанию можно обустроить патио зону, бассейн. все это реально! Отсутствие проблемы с парковкой. Всегда можно удобно припарковаться рядом с домом.
+Звоните, мы будем рады показать вам Эксклюзивный объект в этом районе.
+ Инвестируйте в комфорт и здоровье, что может быть важнее?</description>
+    <internet>1</internet>
+    <rooms>2</rooms>
+    <balcony>лоджия</balcony>
+    <floor>3</floor>
+    <floors-total>3</floors-total>
+    <mortgage>1</mortgage>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>0</lift>
+    <parking>1</parking>
+    <ceiling-height>2.8</ceiling-height>
+    <living-space>
+      <value>38</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>11.5</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <video-review/>
+  </offer>
+  <offer internal-id="320337">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-11-30T13:12:29+03:00</creation-date>
+    <last-update-date>2020-09-21T23:25:54+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/320337</url>
+    <category>квартира</category>
+    <area>
+      <value>232</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/4f9a37e74960058c53e05341d32ce8684c9af104.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/0be77453900a4a36f7271819afc27a5c77cd42eb.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/2cdc3d698380c5a30b9087925a7a33d6324b3bc5.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/e11e4bf4b200c4714b5e432ad5860c4ecb1c59f9.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/407e5098e595bc5ea3eaea0cb0194ca2ebac5011.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/c5c418554dbceb3c27de8f113bb67985d18031ff.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/b4b48d3b03b7d4fcfe9a2cf09f35ad528274fbe4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/16a548898dcfb07d4aac84dc942c6146601758d1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/6e2b6d01451c77a1772ae607b4f4b80eada1a06e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/04e7fe2d7d3a069a4ded7d9fa79889788cc1b921.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/9005f6f9284765976594765a5fd0b7b24144705c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/dbc00f3a6960c369a4f619a7b3581b3343cd5f22.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/4434ccd56494d62b2f96aa4b36bda17196abf7c4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/0ff643414c20b7dfb767fdc0edee111a880ca891.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/693f28546b39024ce9a8bd5598fce5c06067244a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/91e16557656f376bc4865e479574bed876057c05.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/2df89b4dd9e0f7cb7f5515c6795a6ae2b06e83b7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/59e3a45c8c016067f764bca734ddf61108fefe7c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d73c5fd8a59b9fca6262c4d3d836a085d5874d56.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/9f9dcfa96792cde5a0e39601084cdb5d63edc0a2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/54f51484d04b78a1131ca19e0fc2e6c01acd4201.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/65064a67c44a1c8ea6961d3ab65f7a9346d34c99.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/91010dc68054f016e1f4b639e986c375df0995d1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/33550d3971cabc72f7b84b46658073621c19da68.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/aaf74a0217eb58eba7a44c51f5705373df34adf1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/7675eb66a5394ed4a2fb6003b80ed48047697015.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d4cc1d86d03a6b2e6aeba13fe49b1ef2e004fe6a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/4f6deb42c55dc2d71620c0f55f39e33c1607b1c4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d788951ba306da932ea81a7a819ef48b9aaade19.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/096e67e4feb5c9f5817fe1bc09d96f81038a1366.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/4b67cdb067d5eb14bd9e4435f7d44a89b8ca4845.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/9368023e69aac620cfa5370ab62e045dc0749189.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/dfd3fd77724d858adb4fa02f226d523232cb89c2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/02ebd7509b0fe469bd841b180fac55ca4b1ab252.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/ad5b9c792ee627fa3c7895a06cccc6ae60a6ed2f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/94513e66b9eeffbf878522ad8d4c187f287984ec.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/8a31e6c3c73e5a0b05c484e1879b37213d916987.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/724d7f76bd9380ef5cf5767e519ab82e7fd2aa1e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/a1351749499577d9d9dd8315db895256b1997c51.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d92e12ecf5ef8534f0678894a3e2e7ce5761ccd1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d2190d0ff360524ec2de2eae5ccd0ffc3dcb315f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/d2c4476a1ca5951b7fe2dd2a0bec52a85c86405c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/320337/057c08c40ec94ea6550fabe1a21b535e271d0e51.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Москва</locality-name>
+      <address>ул Короленко , 8</address>
+      <latitude>55.795034</latitude>
+      <longitude>37.691728</longitude>
+      <metro>
+        <name>Сокольники</name>
+        <time-on-foot>14</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Дмитрий</name>
+      <phone>9254311656</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>76615000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 320337. Уникальное предложение! Невозможно остаться равнодушным побывав в этой квартире. Самый престижный дом Бизнес-класса в районе Сокольники. Великолепно спланированная двухуровневая 7-комнатная видовая квартира ( пять изолированных спален, гостиная с настоящим камином совмещена с просторной кухней), богато-оформленный кабинет, три совмещённых санузла с финской сауной и джакузи, просторная гардеробная и масса приятных мелочей, подчеркивающих продуманность и индивидуальность каждой детали. Высочайшее качество ремонта (ремонту чуть более трёх лет) и использованные экологичные материалы не оставят равнодушным самого требовательного покупателя. Минимальные тарифы на услуги ЖКХ для жителей данного дома. 
+В подарок остается вся мебель! Если Вы предпочитаете жить в окружении респектабельных соседей, в районе с развитой инфраструктурой, Вам необходимо записаться на просмотр этой квартиры. Дополнительная информация по телефону. Свободная продажа. Оперативный показ по предварительной договорённости. Торг при осмотре. Хороший бонус Агенту за реального Покупателя.</description>
+    <internet>1</internet>
+    <rooms>7</rooms>
+    <balcony>лоджия</balcony>
+    <floor>19</floor>
+    <floors-total>20</floors-total>
+    <built-year>1999</built-year>
+    <haggle>1</haggle>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>3 совмещенных</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.9</ceiling-height>
+    <living-space>
+      <value>141</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>28</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review/>
+  </offer>
+  <offer internal-id="321130">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-12-18T14:27:10+03:00</creation-date>
+    <last-update-date>2020-09-19T10:08:00+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/321130</url>
+    <category>квартира</category>
+    <area>
+      <value>85.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/17989f6c59376bba1063e6553290aa1af0540d0c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/f7a9c3aabbe0eb72f672f62247fcd9957a007164.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/3740cc72d56c1d31d172538520ef011b23efe69e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/e2cdff1be7157b4ca1ef983b553ce1e417c2c764.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/828b5f57a3c097525b3fdb7fa889f1c576442d7c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/397fbb2feca0dd473635eac50d5fb07d7a8eb193.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/5039df1cd076ea415eb2e528f437c9a8dbafbd4e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/d5e4d154dd250e7af79fb88fed46a9cd3f492425.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/68dbfe7b7dffefe2ef8f3528bf1bac6c27feecea.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/af61668291bc9351e501a5020e83e393ccacbadd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/2aafd8448ac3919e83787d68d1605f0237dc42aa.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/1b4f82cfa22cbc10a60b0c1349e737246413692d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/51ab5d52a65f2b7b0e2737ade90682cb447225ea.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/cd2f4abc09ed761b7a76e84a483b3689c538bdcc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/e1ada6dd705a2c3e7fccc08db5425a629913eed0.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/73cd5f404ecca5b23483e07ab96c871b0ac49ace.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/d4463d0cd54c702811b8398c064b96bbb20b82cd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/64ff2e91033ebc67fc8d17f730c47ccae8f46c1c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/00263cbe66b7853e4ec5c7aa7b6db649e0811e8e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/9a2383e8b527588a06082d6d8ecda67d64268fba.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/0391b87ff9c8889dec759f823de20f4bcb0e53bc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/35fcb9f7528bf8c986083598e1ad0dfad6050b13.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321130/54f76f0d043b2a2afd3cef5a205fe80a59da058a.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Москва</locality-name>
+      <address>пр-д Погонный , 3Ак5</address>
+      <latitude>55.819752</latitude>
+      <longitude>37.701394</longitude>
+      <metro>
+        <name>Бульвар Рокоссовского</name>
+        <time-on-transport>15</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Елена</name>
+      <phone>9366660383</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>24300000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 321130. Удаленный показ - посмотри объект не выходя из дома.
+Эксклюзив! 
+Невозможно остаться равнодушным побывав в этой квартире. Великолепно спланированная ( две изолированные спальни, гостиная совмещённая с кухней), 2 просторных санузла, гардеробная и масса приятных мелочей, подчеркивающих продуманность каждой детали. Высочайшее качество использованных материалов и роскошь интерьера, не оставят равнодушным самого требовательного покупателя. Если вы хотите жить в доме Бизнес-класса, на закрытой, охраняемой территории, в районе с прекрасной инфраструктурой, где существуют все атрибуты комфортного проживания, Вам необходимо записаться на просмотр. 3D тур квартиры по запросу. Дополнительная информация по телефону. Свободная продажа. Всё оперативно. Дмитрий.</description>
+    <internet>1</internet>
+    <rooms>3</rooms>
+    <balcony>балкон</balcony>
+    <floor>3</floor>
+    <floors-total>18</floors-total>
+    <built-year>2012</built-year>
+    <mortgage>1</mortgage>
+    <haggle>1</haggle>
+    <window-view>на улицу</window-view>
+    <bathroom-unit>2 раздельных</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>3</ceiling-height>
+    <living-space>
+      <value>37</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>25</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+  <offer internal-id="321362">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-12-26T11:51:53+03:00</creation-date>
+    <last-update-date>2020-09-21T23:40:13+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/321362</url>
+    <category>квартира</category>
+    <area>
+      <value>100</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/8bc72e0941acfe6f7621bd79657d7797b982c879.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/024ed77dc78395c8e4b168df371775210da18403.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/2d1f5039cc6eab131b930c5e4aa3fa63f989d92e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/28fee96d8ce4aa8b5b230a14771dbc4ad8bbb11b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/7c1876d797aaf2c6395b1be8124c74dc12742aac.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/94fad0b42022fd5770ba1cab8d85d14e7754accf.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/f6ee0f131b03d99a5dec7ea57bc1c30ea83b47c5.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/005ad2033a3e087db45597616486de2fdd033ed8.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/98e16592d0261f8e361650870c4e3b1a479b2325.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/ac53e54b8cf451c8923abeb1ec457b57185a8bc4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/5164182637ae429cee0c952eacc8a088a11fd611.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/4447323e3910d7116bca7bc32dabf3249eedfdcd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/2d269dd97d25fe790df77967a6d1c0b73c0620d9.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/80e7e4e079ea3a5f62c81c1f569825c8b6317c24.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/af558d05511797697d4a5d232c63e9819a5f7b87.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/2f8d0f7641b4f8b0597cd7876d8c837891f71fcc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/2180c9eb2ad47871e94dae58f7a79e8d5aba3f51.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/82b973e8788529ad0539c4d33c0f318549c06156.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/72daba9f7b130b7e263f438b9de3263433aa2bf6.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/479c890b844788c48ac4e2d7b452111a5befa734.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/34ecb0e988ebd87df34179b7b0185ae3b2ef9190.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/ecec1d61285ee9634f7590fef14a23520d0f6ec4.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/321362/627ced627b947561128442f4c4672a6db2aa31ae.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Москва</locality-name>
+      <address>пр-кт Ленинградский , 62</address>
+      <latitude>55.801035</latitude>
+      <longitude>37.533382</longitude>
+      <metro>
+        <name>Аэропорт</name>
+        <time-on-foot>2</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Павел</name>
+      <phone>9254302957</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>26950000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 321362. Удаленный показ - посмотри объект не выходя из дома.
+Продаётся отличная 4-х комнатная квартира (22+16-15-14) в фасадном сталинском доме, в старом аристократическом районе Москвы, в окружении домов творческой интеллигенции, с прекрасной планировкой, двумя санузлами, большой прихожей (12) и кухней (14), с дизайнерским ремонтом европейского качества (с заменой систем водоснабжения, канализации, электропроводки) в стиле сдержанной классики, с применением высококачественных отделочных материалов. В квартире имеется 5 кондиционеров, вся необходимая для комфортного проживания бытовая техника и мебель, въезд на территорию двора через автоматические ворота, на этаже 2 квартиры. Чистый, просторный подъезд. До м. Аэропорт 2 мин пешком. Собственный тихий зелёный закрытый двор с бесплатной парковкой (места есть всегда), рядом подземный гараж (есть возможность приобрести м/м или взять в аренду). В шаговой доступности лучшие в районе школы, детские сады и поликлиники (в том числе ЛитФонда). Рядом высшие учебные заведения, входящие в список лучших институтов Москвы: МАИ, МАДИ, Финансовая академия, Пищевой институт, зелёные парки и фитнес-клубы в шаговой доступности, бассейн ЦСКА, кафе, рестораны, салоны красоты, магазины, ТЦ "Галерея-Аэропорт". В собственности более трёх лет. Оперативный показ (для иногородних покупателей и покупателей с недостатком свободного времени с удовольствием организуем предварительный онлайн-тур по квартире, чтобы помочь определиться с выбором). Звоните, отвечу на все возникшие вопросы.</description>
+    <phone>1</phone>
+    <internet>1</internet>
+    <rooms>4</rooms>
+    <balcony>балкон</balcony>
+    <floor>2</floor>
+    <floors-total>6</floors-total>
+    <built-year>1938</built-year>
+    <mortgage>1</mortgage>
+    <haggle>1</haggle>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>2 совмещенных</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>3.1</ceiling-height>
+    <living-space>
+      <value>66</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+  <offer internal-id="322224">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2019-02-01T14:58:00+03:00</creation-date>
+    <last-update-date>2020-09-21T23:27:38+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/322224</url>
+    <category>квартира</category>
+    <area>
+      <value>83.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/503497e69d172471de6c0c9376a72c7b75c8741b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/cdfbb3a7e671508cd4a23a66ffc561b0b60d26c3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/fa59eb12adf1ef50d91f0d4f7666513012149dfd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/8d85465c0cb3d5552a20d11adcb88a6df75f36bd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/618b8bb33eda07208dce791eb67dbaf7e5894887.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/43fb28ea9ce2618fba2dd2280f144e557b983d8c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/e0a8bdbe53f38119145457775b16cbff76b25b32.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/fe305d89de9577d6b6e1d421c633e83877aed80b.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/514ed92896c762502b68fd1c1e296186a62f68f1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/ddf2b619fc24f5f57f27e3369e69511b86a023f7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322224/6243876281c41585eab37451be465c4ddd847fdd.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Москва</locality-name>
+      <address>ул Привольная , 19</address>
+      <latitude>55.697691</latitude>
+      <longitude>37.842618</longitude>
+      <metro>
+        <name>Лермонтовский Проспект</name>
+        <time-on-foot>7</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Андрей</name>
+      <phone>9250818773</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>15800000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 322224. Предлагается к продаже просторная двухкомнатная квартира в монолитно-кирпичном малоэтажном доме "Бизнес-класса" района Выхино-Жулебино. Дом построен строительной компанией Болгарстрой, Индивидуальный проект застройки 1996 года. Хорошая планировка, распашонка. Застеклённая лоджия – выход из комнаты, гардеробная комната, просторная и светлая кухня. Общая площадь, без учёта лоджии -81м2. Холл - 10.7 м2, комнаты 22.7/18. Пол – ламинат, на кухне, в санузлах – плитка. Потолки -2.8м, перекрытия ж/б. Охраняемая, огороженная территория, въезд по пропускам, во дворе имеется подземный паркинг. Приличные соседи. Очень развитая инфраструктура. Детский сад, школа, банки, торгово-развлекательные центры, кинотеатры, магазины, супермаркеты, аптеки, фитнес центры, кружки, секции и т. д. Развитая транспортная доступность, до метро Лермонтовский проспект - 7-10 минут пешком, удобный выезд на МКАД, рязанское шоссе, волгоградский проспект и т. д. Рядом лесопарковая зона, пруд. Свободная продажа. В собственности более 3-х лет. Один взрослый собственник. Никто не прописан. Документы готовы, быстрый выход на сделку. Показ по предварительной договоренности.</description>
+    <internet>1</internet>
+    <rooms>2</rooms>
+    <balcony>лоджия</balcony>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <built-year>1996</built-year>
+    <mortgage>1</mortgage>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>разделенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>0</lift>
+    <parking>1</parking>
+    <ceiling-height>2.8</ceiling-height>
+    <living-space>
+      <value>40.7</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>16.4</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review/>
+  </offer>
+  <offer internal-id="322295">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2019-02-04T13:35:06+03:00</creation-date>
+    <last-update-date>2020-09-21T23:46:06+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/322295</url>
+    <category>квартира</category>
+    <area>
+      <value>146</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/4d4177b6eec201819402dc134972a944ad4470e5.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/e58ea47bc94485ef712e1ff849a3d163426f39e8.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/d2789121bc1c8399221baf5311a17848cad31976.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/e7c67cb357e87c1af07d20dbb9932b659d0cd5b5.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/bdcfc63aea72d4e7ddaee1a8c015b278d21dab0f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/afaabf3f4857b52d18c2b2a884ad2cf315e5a5d3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/fd0836ef08cbb46f79d7a69dd913420a7b863f79.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/dd2c27513f0eb040f7e6a1e8d53dc6f21735ce78.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/e52c0dd771b1b144dce95fd9ec6463461e503999.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/6fabf493fd7b5161bfcdbc6533068f97478b560a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/726f708ab132969545ac229bbe036a583556d54f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/c0439c32897181f584e7774be7a40728ffbcfd3d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/d41c72a2ccacfe7e39a382eaa4b7466af8dad14f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/45502d2fdc726d8afbbd14f56ea2f588a7c5ef45.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/1146cf8f1b3e774165377d35b792bebfd0cf4a28.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/b33954dffb52aeef26db652010099840c0c41391.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/a2d59ae9560fff8be7e6ad023084802320413ac0.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/9bd5457cac62535e50f08433df4cea6d73b801b1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/f2cd79b894d6b8c7f26e842785085468571bae51.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/882cdd8e74b83f49f4bef79fd46dea17bcd1bdd7.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/591d324e2d44ce59f85f8507ef431bb6165ad533.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/cce19fbfcb10a0bb21d8db17fbba6dd976223a58.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/d8ba108cecefbaeab371649e317c9af61a8ff698.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322295/95ed09eb742dd9b676222fd67d4f5a3e33af07ba.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>область Московская</region>
+      <district>Дзержинский городской округ</district>
+      <locality-name>город Дзержинский</locality-name>
+      <address>ул Угрешская , 32</address>
+      <latitude>55.631925</latitude>
+      <longitude>37.868705</longitude>
+      <metro>
+        <name>Люблино</name>
+        <time-on-transport>15</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Надежда</name>
+      <phone>9269985741</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>13500000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 322295. БЕЗОПАСНАЯ ONLINE-СДЕЛКА! Все готово! 
+Это квартира Вашей мечты. Просторная 3-х комнатная квартира с дизайнерским ремонтом и полным набором мебели и техники для комфортной жизни семьи. Вся отделка только из качественных и прочных материалов, все делали для себя. Встроенный кухонный гарнитур, посудомоечная машина, двухкамерный холодильник. 
+В квартире установлены водонагреватель и кондиционеры. Прекрасный вид на карьер и лес. 
+Дом бизнес-класса, видеонаблюдение в подъезде и на территории. 
+Подземный паркинг, как дополнительное преимущество. Рядом с домом есть свой выход в лес. 
+Все необходимое в шаговой доступности, школа, детский сад, детские площадки, спортивные клубы, магазины. 
+Хорошая транспортная доступность: остановка общественного транспорта около дома, автобусы ходят до станций метро Котельники, Люблино, Братиславская, Алма-Атинская, Кузьминки, ехать 20 минут. 
+Покупателю бонус: бесплатная юридическая помощь в проведении сделки купли-продажи недвижимости, помощь в получении ипотеки.</description>
+    <phone>1</phone>
+    <internet>1</internet>
+    <rooms>3</rooms>
+    <balcony>лоджия</balcony>
+    <floor>14</floor>
+    <floors-total>17</floors-total>
+    <built-year>2010</built-year>
+    <haggle>1</haggle>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>2 раздельных</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>3</ceiling-height>
+    <living-space>
+      <value>60</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>30</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review/>
+  </offer>
+  <offer internal-id="322537">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2019-02-08T10:11:25+03:00</creation-date>
+    <last-update-date>2020-09-21T23:39:18+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/322537</url>
+    <category>квартира</category>
+    <area>
+      <value>73.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/e3b6920f98e0e5941b706cb969f90fe9741e8808.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/a6bba125dfd83776e4ea647526c2dec3a60414d3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/1ecef88d173ac30f87a248eb630657dc624b3f54.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/1810e502b89219fb5d4fd36698b1b427d49dcfb9.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/abfd66d3536fc6186bea2e0eeb2814a0aba42a5c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/468340ac3b6c74b4444540d57e15858ad8caba68.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/74560a8d522743904256231848d92ebf7c5f8e59.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/35df7a50e5cad4e9c94705a49eda8204b8026fae.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/4152b258ef3558b0dfb6d315ea2aeeaeb6116a18.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/315712681c0190071989d944afc2933954194237.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/8b51a078a15ed009b5b1fca4a35b60db64749d73.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/351790c0612aa514d2939049f15e5393ef46acf3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/8e209472fe4634d8117f93a5d7238f92ba33ac3a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/a5b8c7b27271b8d0f95136c42555906d9a778932.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/16d042d3c11f3fdd935be42603936c1aff479c91.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/f6cc3414fdbe05273c02c418578d16ca545a5e13.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/21cda7185de39e0f7b1fc16526a54881705ca658.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/7b20b4deead4b5b57c832e691799cb0e6bb2a299.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322537/4ce16c12ef3699bb77318c7ec9d862f7e10349c4.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <locality-name>город Зеленоград</locality-name>
+      <latitude>55.978035</latitude>
+      <longitude>37.165235</longitude>
+      <metro>
+        <name>Комсомольская</name>
+        <time-on-transport>30</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Галина</name>
+      <phone>9361113741</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>10200000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 322537. Удаленный показ - посмотри объект не выходя из дома.
+Продам уютную, тёплую, просторную 3-х комнатную квартиру в Зеленограде! В 5 минутах неспешной ходьбы от станции Крюково. Квартира расположена на 5 этаже 25-ти этажного монолитного дома. Имеются 2 балкона (первый балкон очень просторный, второй балкон чуть меньше). Квартира в хорошем состоянии, раздельный С/У, а так же, к квартире присоединена часть коридора (около 5-7м2), что существенно увеличивает общую площадь квартиры! Кухонный гарнитур полностью остается новому владельцу, вся остальная мебель - по договоренности! В непосредственной близости вся необходимая инфраструктура: детский сад, школа, спортивные и детские площадки, магазины, поликлиника, спорткомплекс, торговые центры, салоны красоты, места для отдыха и многое другое! Отличное транспортное сообщение, остановки в 3-х минутах от дома, 5 минут неспешным шагом и Вы окажитесь на станции Крюково, откуда "Ласточка" Вас домчит за 30 минут до центра Москвы. Оперативный показ. Подходит под ипотеку! Есть возможность провести виртуальный тур который позволит рассмотреть квартиру дистанционно во всех деталях.</description>
+    <phone>1</phone>
+    <internet>1</internet>
+    <rooms>3</rooms>
+    <balcony>балкон</balcony>
+    <floor>5</floor>
+    <floors-total>25</floors-total>
+    <built-year>1999</built-year>
+    <mortgage>1</mortgage>
+    <haggle>1</haggle>
+    <window-view>улица и двор</window-view>
+    <bathroom-unit>разделенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.6</ceiling-height>
+    <living-space>
+      <value>46.8</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>10</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <rubbish-chute>1</rubbish-chute>
+    <deal-status>прямая продажа</deal-status>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+  <offer internal-id="322895">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2019-02-15T16:36:26+03:00</creation-date>
+    <last-update-date>2020-09-21T23:26:19+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/322895</url>
+    <category>дом с участком</category>
+    <area>
+      <value>97.7</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/34ab4009cba35ac70ed8b466798c4dcd3df0f615.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/cb16e03280781075736db04bd22ae020eeff8d25.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/47d1c468ec5b558b9a9066c101f36c246b423db3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/082720e14fe0739f3d47c282357e71f86a899f35.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/1c9870bdbd5bf6c5426210680d86844e4e2932e1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/43c5d2fd46a70a3f6ff2cc8dc0f375b165f48b0d.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/0422a079ebb6f73cd1ca2e9707678a953dd46aa0.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/5e48b1505f9c4bd1b89984b0a5341bea9dcefe8e.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/51c75512b20e992ebe1fee3d034a3cadde8306d6.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/a31d9b814d3510c1bb66abeaf4860866e6a4e0ca.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/e07bc3daf75878b2fd261d53c7d3bcadf4e5d4d2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/f71526f3da5e60697f9dd5be74ab82299626528c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/18e0fccd30ec8522b2cc3a6a635ae430b4f3ac69.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/29f18f87718166804413a6447abfb7e4f8f9cda1.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/506e0ac224042424277a61ea8d96a40f73da97dd.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/31fd0e2b9d1a469c0610500fcbe83346c7cca664.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/95e8092be521e1a41c2cfe7ec5b878bb68964a69.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/6f921e80b343eaab9327bdd5c930626554f050c3.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/6fd31c42ed7898f67165c381a5bd601b0f9dae0c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/a57266a718899d396074dd757d206ed5a433ae70.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/8adc939e75fdbe7d8d62dd39f5b309f755646d3f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/a8a9664d71b1a3f05df55bb3b8a1a2966a93a45a.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/00cd4ece1cba872cf872004ac2ae6f7c5a22f518.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/322895/5dd2812098ad81e9e15ec0a6d37fc3bd08828ed6.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>область Московская</region>
+      <district>Химки городской округ</district>
+      <locality-name>город Химки, микрорайон Сходня</locality-name>
+      <address>ш Новосходненское</address>
+      <latitude>55.941309</latitude>
+      <longitude>37.296092</longitude>
+      <metro>
+        <name>Пятницкое Шоссе</name>
+        <time-on-transport>25</time-on-transport>
+      </metro>
+      <direction>Новосходненское шоссе</direction>
+    </location>
+    <sales-agent>
+      <name>Наталия</name>
+      <phone>9257897477</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>asdasdsa</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 322895. Удаленный показ - посмотри объект не выходя из дома.
+Продается красивый, теплый, уютный двухэтажный дом. Замена квартиры. 
+ По Новосходненскому шоссе между Зеленоградом и Химками (10-15 минут на авто). д. Голиково, с. т. "Горетовка" 9 км. от МКАД. 
+ Дом 97,7 кв. м., в доме выполнен качественный, дорогой ремонт, установлены стеклопакеты. 
+ 
+ Центральное газоснабжение, септик, электричество, вода из собственной скважины. 
+ 
+На первом этаже находятся прихожая, кухня, санузел, небольшая комната и огромный зал. На втором этаже большая спальня и гардеробная. Вся техника и мебель остается новым хозяевам. 
+ Дом деревянный, снаружи обложен кирпичом, крыша из металлочерепицы. Участок 10 соток,(6 в собственности и 4 в аренде) ровной квадратной формы. 
+ На участке имеется детская площадка, беседка для отдыха, небольшая постройка хозяйственного назначения, навес для парковки 2-х автомобилей, летний туалет и погреб. По границам участка забор, на въезде на участок автоматические ворота. По бокам тихие, спокойные соседи, проживающие круглогодично. 
+ Удобный подъезд. Хорошая транспортная доступность. Через дорогу находятся муниципальные школа и детский сад. В шаговой доступности огромный торговый центр со всей необходимой инфраструктурой (магазины, спортивные центры, кафе). 
+ В тоже время в доме очень тихо и спокойно за счет второй линии от дороги. Один собственник. 
+ </description>
+    <heating-supply>1</heating-supply>
+    <lot-area>
+      <value>10</value>
+      <unit>сот</unit>
+    </lot-area>
+    <floors-total>2</floors-total>
+    <built-year>1996</built-year>
+    <mortgage>1</mortgage>
+    <haggle>1</haggle>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>0</lift>
+    <ceiling-height>3</ceiling-height>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+  <offer internal-id="315228">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <creation-date>2018-05-13T19:48:17+03:00</creation-date>
+    <last-update-date>2020-09-21T23:32:18+03:00</last-update-date>
+    <url>http://www.33slona.ru/flat/315228</url>
+    <category>квартира</category>
+    <area>
+      <value>56.1</value>
+      <unit>кв.м</unit>
+    </area>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/719ce2e3917ee2873f27681fb36d43d8658db812.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/7d7064822dbc21b19e2ce81a9962745fb972a3e5.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/ff48891f087516bc9aaa8d68f7abbb5015965536.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/b9fcd722b8722c8a03f82a7e5a9dca4e8077ec2f.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/34c8a683f3d19e45b71217011596f77b274eb180.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/4a0187c20f185906590d352d1c284a5ad043dacc.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/e4b241aa88653f256155c4ec087684e4bc133a47.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/4130f89adea0ed5a2c8426328328a3ab63f0ed45.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/edfe069e5eba38ac6e398772b30af9ab5ebc75b2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/f010356ed0051c30c976910a7dc3da9f5398215c.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/367652d6e4ffaceff8fd33195adffdd05bbc60e2.jpg</image>
+    <image>https://cdn.33slona.ru/33-slona/1600x1280/ad/315228/76432de4154e4a3a2ed4a3cae6da7463da834ac9.jpg</image>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Московский поселение</district>
+      <locality-name>деревня Румянцево</locality-name>
+      <address>ул Верхняя , 25А</address>
+      <latitude>55.632184</latitude>
+      <longitude>37.426204</longitude>
+      <metro>
+        <name>Румянцево</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <name>Джейк</name>
+      <phone>9255166963</phone>
+      <category>агентство</category>
+      <organization>33 Слона</organization>
+    </sales-agent>
+    <price>
+      <value>7700000</value>
+      <currency>RUB</currency>
+    </price>
+    <description>ЛОТ 315228. Удалённый показ — посмотри объект не выходя из дома! Уютная, комфортабельная 2-х комнатная квартира в Москве в частном секторе. Все документы в порядке, не доля! Дом расположен в деревне Румянцево в 10 минутах пешком от одноимённого метро. От МКАД 2 км по Киевскому шоссе, прямой съезд, шлагбаум (управляется через смартфон). Центральные коммуникации: вода, канализация, магистральный газ. Автономный подогрев воды и отопление (ТСЖ на дом), за счет этого невысокие коммунальные платежи. Квартира расположена на цокольном этаже, выполнен качественный ремонт: дубовый паркет и плитка, на стенах мозаика, искусственный камень, декоративная штукатурка, сантехника известных фирм. Участок огорожен сплошным забором, калитка с кодовым замком, на территории есть детская площадка. Мебель и техника обсуждается дополнительно. 
+Инфраструктура: детские сады, школа в пешей доступности, рядом ТЦ Рио и Бизнес-Парк "Румянцево" со множеством магазинов, недалеко расположен лесопарк. 
+Отличный вариант под сдачу в аренду тем, кто работает в данной локации, близость к торговому центру и бизнес-центру "Комстар".
+Один взрослый собственник, более 5-х лет в собственности. Информация по телефону в контактах объявления.</description>
+    <internet>1</internet>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors-total>4</floors-total>
+    <built-year>2008</built-year>
+    <mortgage>1</mortgage>
+    <window-view>во двор</window-view>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <room-furniture>да</room-furniture>
+    <lift>0</lift>
+    <parking>1</parking>
+    <ceiling-height>2.7</ceiling-height>
+    <living-space>
+      <value>44.6</value>
+      <unit>кв.м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    <deal-status>прямая продажа</deal-status>
+    <refrigerator>1</refrigerator>
+    <video-review>
+      <online-show>1</online-show>
+    </video-review>
+  </offer>
+</realty-feed>
